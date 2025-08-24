@@ -13,7 +13,7 @@ I also designed a **miniature PCB** that can directly substitute an **HC-49 crys
 
 Here’s the small PCB designed for the project:
 
-![PCB photo](images/pcb.jpg)  <!-- Replace with your actual path or link -->
+![PCB photo](images/xtal.png)  <!-- Replace with your actual path or link -->
 
 ---
 
@@ -44,4 +44,5 @@ After flashing the firmware, the output frequency can be fine-tuned in **30 Hz s
 ## License
 
 This project is licensed under the **GNU General Public License v2.0 (GPL-2.0)**.  
+
 See the [LICENSE](LICENSE) file for details.
